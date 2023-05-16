@@ -2,7 +2,7 @@
 
 // 2. Write a function that takes 2 numbers as arguments and returns the sum of both numbers and the variable "x", using arrow functions.
 
-// 3. Write a function that returns another function. (use arrow functions please)
+// 3. Write a function that returns another function. (use arrow functions please)1
 
 
 // 4. Given the following code explain why the function that returns from getFunction still has access to variable "y" even when "y" is not a global variable.
