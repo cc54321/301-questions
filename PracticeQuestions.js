@@ -1,5 +1,6 @@
 // 1. Write a function that takes 2 numbers as arguments and returns the sum of both numbers and the variable "x" using without using arrow functions.
 
+
 // 2. Write a function that takes 2 numbers as arguments and returns the sum of both numbers and the variable "x", using arrow functions.
 
 // 3. Write a function that returns another function. (use arrow functions please)1
